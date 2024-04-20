@@ -1,0 +1,10 @@
+CPU usage monitor
+Secure password generator
+Checksum calculator
+Dice Roller
+Natural language date convertor
+Tower of Hanoi Problem
+Checker Game
+Color Code Convertor
+Word Frequency Counter
+Expense Tracker
